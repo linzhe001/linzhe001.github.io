@@ -1,7 +1,7 @@
 [![linzhe](https://img.shields.io/badge/linzhe001-github-blue?logo=github)](https://github.com/linzhe001)
 [![ORCID](https://img.shields.io/badge/ORCID-iD-green?logo=orcid)](https://orcid.org/0009-0001-6109-5707)
 
-He is currently pursuing a Master's Degree in Computer Scienc, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am seeking a PhD position to develop surgical robotics and AI solutions for next-generation minimally invasive surgery.
 
 #### Email
 linzhejiang001[at]126.com\
@@ -16,4 +16,4 @@ Intership, Institute of Biomedical Engineering, Chinese Academy of Medical Scien
 
 
 #### Research Interests
-Image-guided Surgery, Surgery robot, 
+Image-guided Surgery, Surgical Vision, Medical Robots.
