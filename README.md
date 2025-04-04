@@ -60,7 +60,7 @@ git push
 
 ### 3. Enjoy
 
-Fire up a browser and go to `https://<username>.github.io`
+Fire up a browser and go to `https://linzhe001.github.io/`
 
 
 
