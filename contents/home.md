@@ -2,15 +2,21 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Computer Scienc, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+linzhejiang001[at]126.com
+
+linzhe.jiang.23[at]ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc Medical Robotics and Artificial Intelligence, University College London.
+
+BEng Mechanical Engineering and Automation, Southwest Jiaotong University.
+
+#### Employment 
+Intership, Institute of Biomedical Engineering, Chinese Academy of Medical Sciences
+
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Image-guided Surgery, Surgery robot, 
