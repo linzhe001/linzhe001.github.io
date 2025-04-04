@@ -5,11 +5,11 @@
 He is currently pursuing a Master's Degree in Computer Scienc, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-linzhejiang001[at]126.com
-linzhe.jiang.23[at]ac.uk
+linzhejiang001[at]126.com\
+linzhe.jiang.23[at]ucl.ac.uk
 
 #### Education
-MSc Medical Robotics and Artificial Intelligence, University College London.
+MSc Medical Robotics and Artificial Intelligence, University College London.\
 BEng Mechanical Engineering and Automation, Southwest Jiaotong University.
 
 #### Employment 
