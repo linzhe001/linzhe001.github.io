@@ -8,8 +8,8 @@ linzhejiang001[at]126.com\
 linzhe.jiang.23[at]ucl.ac.uk
 
 #### Education
-MSc Medical Robotics and Artificial Intelligence, University College London.\
-BEng Mechanical Engineering and Automation, Southwest Jiaotong University.
+MSc, Medical Robotics and Artificial Intelligence, University College London.\
+BEng, Mechanical Engineering and Automation, Southwest Jiaotong University.
 
 #### Employment 
 Intership, Institute of Biomedical Engineering, Chinese Academy of Medical Sciences
