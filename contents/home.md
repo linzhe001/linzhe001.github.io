@@ -16,4 +16,4 @@ Intership, Institute of Biomedical Engineering, Chinese Academy of Medical Scien
 
 
 #### Research Interests
-Image-guided Surgery, Surgical Vision, Medical Robots.
+Image-guided Surgery, Surgical Vision, Medical Robot.
