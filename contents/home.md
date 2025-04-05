@@ -4,8 +4,8 @@
 I am seeking a PhD position to develop surgical robotics and AI solutions for next-generation minimally invasive surgery.
 
 #### Email
-linzhejiang001[at]126.com\
-linzhe.jiang.23[at]ucl.ac.uk
+linzhejiang001@126.com\
+linzhe.jiang.23@ucl.ac.uk
 
 #### Education
 MSc, Medical Robotics and Artificial Intelligence, University College London.\
