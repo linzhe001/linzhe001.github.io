@@ -11,33 +11,33 @@ horizontal: true
 
 <!-- pages/projects.md -->
 <style>
-  .projects .card .row > .col-md-6:first-child {
+  .projects .card .row .col-md-6:has(> figure) {
     padding: 0;
     overflow: hidden;
   }
 
-  .projects .card .row > .col-md-6:first-child figure,
-  .projects .card .row > .col-md-6:first-child picture {
+  .projects .card .row .col-md-6:has(> figure) figure,
+  .projects .card .row .col-md-6:has(> figure) picture {
     width: 100%;
     height: 100%;
     margin: 0;
     display: block;
   }
 
-  .projects .card .row > .col-md-6:first-child img {
+  .projects .card .row .col-md-6:has(> figure) img {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
 
   @media (min-width: 768px) {
-    .projects .card .row > .col-md-6:first-child {
+    .projects .card .row .col-md-6:has(> figure) {
       height: 240px;
     }
   }
 
   @media (max-width: 767.98px) {
-    .projects .card .row > .col-md-6:first-child {
+    .projects .card .row .col-md-6:has(> figure) {
       height: 200px;
     }
   }
