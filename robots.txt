@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://linzhe001.github.io/sitemap.xml
