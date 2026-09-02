@@ -51,11 +51,7 @@ layout: default
           padding: 1.4rem;
           border: 1px solid var(--global-divider-color);
           border-radius: 0.9rem;
-          background: linear-gradient(
-            145deg,
-            var(--global-card-bg-color) 58%,
-            color-mix(in srgb, var(--global-theme-color) 8%, var(--global-card-bg-color))
-          );
+          background: var(--global-card-bg-color);
           box-shadow: 0 14px 34px color-mix(in srgb, var(--global-theme-color) 12%, transparent);
         }
 
@@ -65,7 +61,7 @@ layout: default
           right: 0;
           left: 0;
           height: 3px;
-          background: linear-gradient(90deg, var(--global-theme-color), transparent);
+          background: var(--global-theme-color);
           content: '';
         }
 
@@ -144,6 +140,10 @@ layout: default
           text-align: center;
         }
 
+        .news th {
+          white-space: nowrap;
+        }
+
         @media (min-width: 576px) {
           .post article > .profile {
             width: 36%;
@@ -174,7 +174,7 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">recent updates</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
