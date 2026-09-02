@@ -95,7 +95,7 @@ al_folio:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -366,6 +366,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: year, author_priority, sort_date, title
+  order: descending, descending, descending, ascending
   group_by: year
   group_order: descending
 
@@ -386,6 +388,7 @@ filtered_bibtex_keywords:
     altmetric,
     annotation,
     arxiv,
+    author_priority,
     award,
     award_name,
     bibtex_show,
@@ -403,6 +406,7 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    sort_date,
     supp,
     video,
     website,

@@ -18,15 +18,9 @@ profile:
       </a>
       <div class="profile-detail">
         <span class="profile-detail-icon"><i class="fa-solid fa-location-dot"></i></span>
-        <span><small>Location</small>China / United Kingdom</span>
+        <span><small>Location</small>Tianjin, China</span>
       </div>
     </div>
-    <nav class="profile-links" aria-label="Academic profiles">
-      <a href="/assets/pdf/Linzhe_Jiang_CV.pdf">CV</a>
-      <a href="https://scholar.google.com/citations?user=UQJnDwYAAAAJ">Scholar</a>
-      <a href="https://github.com/linzhe001">GitHub</a>
-      <a href="https://orcid.org/0009-0001-6109-5707">ORCID</a>
-    </nav>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
