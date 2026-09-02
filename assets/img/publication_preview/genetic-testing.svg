@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Regulation of genetic testing</title>
+  <desc id="desc">DNA linked to regulatory quality checkpoints and a shield.</desc>
+  <defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#f8f3e9"/><stop offset="1" stop-color="#e9f0ee"/></linearGradient><linearGradient id="shield" y2="1"><stop stop-color="#173c57"/><stop offset="1" stop-color="#0b1f33"/></linearGradient></defs>
+  <rect width="900" height="500" rx="22" fill="url(#paper)"/>
+  <g opacity=".22" stroke="#6e8a99"><path d="M0 100H900M0 200H900M0 300H900M0 400H900"/><path d="M150 0V500M300 0V500M450 0V500M600 0V500M750 0V500"/></g>
+  <text x="55" y="72" fill="#173c57" font-family="Arial,sans-serif" font-size="24" letter-spacing="4">GENETIC TESTING</text>
+  <text x="55" y="108" fill="#607d8a" font-family="Arial,sans-serif" font-size="17">quality, access, oversight, and public trust</text>
+  <g transform="translate(75 150)" fill="none" stroke-linecap="round"><path d="M0 0c160 70 160 210 0 280" stroke="#173c57" stroke-width="10"/><path d="M150 0C-10 70-10 210 150 280" stroke="#52a99f" stroke-width="10"/><g stroke="#b66a55" stroke-width="5"><path d="M30 19h90M10 60h130M3 103h144M14 146h122M3 189h144M10 232h130M30 267h90"/></g></g>
+  <g transform="translate(330 155)" font-family="Arial,sans-serif"><g fill="none" stroke="#6e8a99" stroke-width="3"><path d="M-82 65h70M-82 140h70M-82 215h70"/></g><g fill="#52a99f"><circle cy="65" r="12"/><circle cy="140" r="12"/><circle cy="215" r="12"/></g><g fill="#173c57" font-size="21"><text x="28" y="72">Clinical validity</text><text x="28" y="147">Data governance</text><text x="28" y="222">Equitable access</text></g></g>
+  <g transform="translate(665 113)"><path d="M78 0c34 25 70 30 92 32v105c0 94-62 147-92 161-30-14-92-67-92-161V32C8 30 44 25 78 0Z" fill="url(#shield)" stroke="#173c57" stroke-width="5"/><path d="m35 139 28 29 61-70" fill="none" stroke="#f0b463" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><circle cx="78" cy="137" r="76" fill="none" stroke="#d7e8ed" stroke-width="3" opacity=".45"/><text x="78" y="342" fill="#173c57" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3" text-anchor="middle">EFFECTIVE REGULATION</text></g>
+</svg>
