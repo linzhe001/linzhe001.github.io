@@ -8,10 +8,25 @@ subtitle: Seeking PhD opportunities in surgical robotics and medical AI.
 profile:
   align: right
   contact: |
-    <p class="profile-name">Linzhe Jiang</p>
-    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:linzhejiang001@gmail.com">linzhejiang001@gmail.com</a></p>
-    <p><i class="fa-solid fa-location-dot"></i> China / United Kingdom</p>
-    <p><a href="/assets/pdf/Linzhe_Jiang_CV.pdf">CV</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=UQJnDwYAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://github.com/linzhe001">GitHub</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0001-6109-5707">ORCID</a></p>
+    <p class="profile-kicker">Surgical vision &middot; Spatial AI</p>
+    <h2 class="profile-name">Linzhe Jiang</h2>
+    <p class="profile-role">Researcher in Surgical Robotics &amp; Medical AI</p>
+    <div class="profile-details">
+      <a class="profile-detail" href="mailto:linzhejiang001@gmail.com">
+        <span class="profile-detail-icon"><i class="fa-solid fa-envelope"></i></span>
+        <span><small>Email</small>linzhejiang001@gmail.com</span>
+      </a>
+      <div class="profile-detail">
+        <span class="profile-detail-icon"><i class="fa-solid fa-location-dot"></i></span>
+        <span><small>Location</small>China / United Kingdom</span>
+      </div>
+    </div>
+    <nav class="profile-links" aria-label="Academic profiles">
+      <a href="/assets/pdf/Linzhe_Jiang_CV.pdf">CV</a>
+      <a href="https://scholar.google.com/citations?user=UQJnDwYAAAAJ">Scholar</a>
+      <a href="https://github.com/linzhe001">GitHub</a>
+      <a href="https://orcid.org/0009-0001-6109-5707">ORCID</a>
+    </nav>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
