@@ -1,14 +1,17 @@
 ---
 layout: about
 title: About
+about_title: About me
 permalink: /
 subtitle: Seeking PhD opportunities in surgical robotics and medical AI.
 
 profile:
   align: right
-  image: profile-symbol.svg
-  image_circular: false # crops the image to make it circular
-  more_info:
+  contact: |
+    <p class="profile-name">Linzhe Jiang</p>
+    <p><i class="fa-solid fa-envelope"></i> <a href="mailto:linzhejiang001@gmail.com">linzhejiang001@gmail.com</a></p>
+    <p><i class="fa-solid fa-location-dot"></i> China / United Kingdom</p>
+    <p><a href="/assets/pdf/Linzhe_Jiang_CV.pdf">CV</a> &nbsp;·&nbsp; <a href="https://scholar.google.com/citations?user=UQJnDwYAAAAJ">Google Scholar</a> &nbsp;·&nbsp; <a href="https://github.com/linzhe001">GitHub</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0001-6109-5707">ORCID</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
