@@ -15,7 +15,7 @@ cv:
   sections:
     Education:
       - institution: University College London
-        location: London, United Kingdom
+        location: London, UK
         url: https://www.ucl.ac.uk/
         area: Medical Robotics and Artificial Intelligence
         studyType: MSc, Distinction
@@ -23,7 +23,7 @@ cv:
         end_date: 2025-09
 
       - institution: Southwest Jiaotong University
-        location: Chengdu, China
+        location: Chengdu, CN
         url: https://en.swjtu.edu.cn/
         area: Mechanical Engineering and Automation
         studyType: BEng
@@ -33,21 +33,21 @@ cv:
     Experience:
       - company: Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University
         position: Visiting Student Researcher, Department of Thoracic Surgery
-        location: Tianjin, China
+        location: Tianjin, CN
         start_date: 2025-10
         end_date: present
         summary: Developing DICOM-to-3D reconstruction workflows and studying image-guided thoracic surgery.
 
       - company: The University of Manchester
-        position: Research Assistant, School of Health Sciences
-        location: Manchester, United Kingdom
+        position: Research Assistant, School of Health Sciences (Remote)
+        location: Remote
         start_date: 2025-08
         end_date: present
         summary: Working on MRI-video registration, feed-forward 3D reconstruction, and the PitvisGym simulator.
 
       - company: Peking Union Medical College, Institute of Biomedical Engineering
         position: Research Assistant
-        location: Beijing, China
+        location: Beijing, CN
         start_date: 2023-09
         end_date: 2024-07
         summary: Worked on fNIRS-based sensing, photon transport simulation, and driver-fatigue experiments.
