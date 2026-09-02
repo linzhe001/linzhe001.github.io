@@ -52,12 +52,9 @@ cv:
         end_date: 2024-07
         summary: Worked on fNIRS-based sensing, photon transport simulation, and driver-fatigue experiments.
 
-    Research Interests:
-      - Surgical Computer Vision
-      - Surgical Spatial Intelligence
-      - 3D Reconstruction and Registration
-      - Vision-Language Models
-      - Image-Guided Surgical Navigation
+    Interests:
+      - name: Research
+        keywords: Surgical Computer Vision, Surgical Spatial Intelligence, 3D Reconstruction and Registration, Vision-Language Models, Image-Guided Surgical Navigation
 
     Honors and Awards:
       - title: Silver Award, China International College Students' Innovation Competition
