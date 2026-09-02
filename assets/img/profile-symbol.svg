@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Linzhe Jiang research symbol</title>
+  <desc id="desc">LJ monogram and a precise network representing surgical vision, robotics, and spatial intelligence.</desc>
+  <defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#081a2b"/><stop offset=".58" stop-color="#12364f"/><stop offset="1" stop-color="#1d5668"/></linearGradient><radialGradient id="halo"><stop stop-color="#6ed2c4" stop-opacity=".22"/><stop offset="1" stop-color="#6ed2c4" stop-opacity="0"/></radialGradient></defs>
+  <rect width="600" height="600" rx="44" fill="url(#background)"/><circle cx="300" cy="300" r="255" fill="url(#halo)"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="300" cy="300" r="210" stroke="#92b8c5" stroke-width="2" opacity=".38"/><circle cx="300" cy="300" r="156" stroke="#6ed2c4" stroke-width="3" opacity=".65" stroke-dasharray="4 13"/><path d="M117 217 215 132l85 24 92-44 92 105-26 103 24 90-91 72-91-38-101 34-80-86 24-92Z" stroke="#92b8c5" stroke-width="3" opacity=".48"/><path d="m143 300 157-144 158 164-158 124Z" stroke="#6ed2c4" stroke-width="3" opacity=".52"/><path d="M215 132 300 300l92-188M119 392l181-92 182 110" stroke="#92b8c5" stroke-width="2" opacity=".35"/></g>
+  <g fill="#f2c27b"><circle cx="117" cy="217" r="9"/><circle cx="215" cy="132" r="8"/><circle cx="392" cy="112" r="8"/><circle cx="484" cy="217" r="9"/><circle cx="482" cy="410" r="8"/><circle cx="391" cy="482" r="9"/><circle cx="199" cy="478" r="8"/><circle cx="119" cy="392" r="9"/></g>
+  <circle cx="300" cy="300" r="116" fill="#0b2336" stroke="#d9e7e8" stroke-width="4"/><circle cx="300" cy="300" r="101" fill="none" stroke="#6ed2c4" stroke-width="2" opacity=".7"/>
+  <text x="300" y="335" fill="#f7f2e9" font-family="Georgia,'Times New Roman',serif" font-size="108" font-weight="600" letter-spacing="-8" text-anchor="middle">LJ</text><path d="M260 368h80" stroke="#f2c27b" stroke-width="5" stroke-linecap="round"/>
+</svg>

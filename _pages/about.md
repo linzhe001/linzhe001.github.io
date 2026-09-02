@@ -6,7 +6,7 @@ subtitle: Seeking PhD opportunities in surgical robotics and medical AI.
 
 profile:
   align: right
-  image:
+  image: profile-symbol.svg
   image_circular: false # crops the image to make it circular
   more_info:
 
