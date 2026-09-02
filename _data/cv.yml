@@ -1,0 +1,73 @@
+cv:
+  name: Linzhe Jiang
+  label: Researcher in Surgical Robotics and Medical AI
+  email: linzhejiang001@gmail.com
+  location: China / United Kingdom
+  image: ""
+  summary: Researcher working on surgical vision, spatial intelligence, 3D reconstruction, registration, and vision-language models for minimally invasive surgery.
+
+  social_networks:
+    - network: GitHub
+      username: linzhe001
+    - network: Google Scholar
+      username: UQJnDwYAAAAJ
+
+  sections:
+    Education:
+      - institution: University College London
+        location: London, United Kingdom
+        url: https://www.ucl.ac.uk/
+        area: Medical Robotics and Artificial Intelligence
+        studyType: MSc, Distinction
+        start_date: 2024-09
+        end_date: 2025-09
+
+      - institution: Southwest Jiaotong University
+        location: Chengdu, China
+        url: https://en.swjtu.edu.cn/
+        area: Mechanical Engineering and Automation
+        studyType: BEng
+        start_date: 2019-09
+        end_date: 2023-06
+
+    Experience:
+      - company: Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University
+        position: Visiting Student Researcher, Department of Thoracic Surgery
+        location: Tianjin, China
+        start_date: 2025-10
+        end_date: present
+        summary: Developing DICOM-to-3D reconstruction workflows and studying image-guided thoracic surgery.
+
+      - company: The University of Manchester
+        position: Research Assistant, School of Health Sciences
+        location: Manchester, United Kingdom
+        start_date: 2025-08
+        end_date: present
+        summary: Working on MRI-video registration, feed-forward 3D reconstruction, and the PitvisGym simulator.
+
+      - company: Peking Union Medical College, Institute of Biomedical Engineering
+        position: Research Assistant
+        location: Beijing, China
+        start_date: 2023-09
+        end_date: 2024-07
+        summary: Worked on fNIRS-based sensing, photon transport simulation, and driver-fatigue experiments.
+
+    Research Interests:
+      - name: Surgical Computer Vision
+      - name: Surgical Spatial Intelligence
+      - name: 3D Reconstruction and Registration
+      - name: Vision-Language Models
+      - name: Image-Guided Surgical Navigation
+
+    Honors and Awards:
+      - title: Silver Award, China International College Students' Innovation Competition
+        date: 2024
+        awarder: China International College Students' Innovation Competition
+
+    Skills:
+      - name: Programming and Deep Learning
+        keywords: Python, C++, C#, PyTorch, Hugging Face Transformers, Mamba, Qwen-VL
+      - name: Computer Vision and 3D
+        keywords: COLMAP, SLAM, NeRF, 3D Gaussian Splatting, VGGT, point-cloud registration
+      - name: Robotics and Medical Imaging
+        keywords: ROS, ROS 2, MATLAB, ITK-SNAP, 3D Slicer, MONAI, SolidWorks
