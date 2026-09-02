@@ -6,10 +6,42 @@ description: Research projects in surgical vision, spatial intelligence, and med
 nav: true
 nav_order: 3
 display_categories:
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
+<style>
+  .projects .card .row > .col-md-6:first-child {
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .projects .card .row > .col-md-6:first-child figure,
+  .projects .card .row > .col-md-6:first-child picture {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: block;
+  }
+
+  .projects .card .row > .col-md-6:first-child img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (min-width: 768px) {
+    .projects .card .row > .col-md-6:first-child {
+      height: 240px;
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .projects .card .row > .col-md-6:first-child {
+      height: 200px;
+    }
+  }
+</style>
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -29,7 +61,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
@@ -55,7 +87,7 @@ horizontal: false
     </div>
   </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-2">
+  <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
