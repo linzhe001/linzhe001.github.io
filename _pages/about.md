@@ -3,7 +3,7 @@ layout: about
 title: About
 about_title: About me
 permalink: /
-subtitle: Seeking PhD opportunities in surgical robotics and medical AI.
+subtitle: Seeking Fall 2027 PhD opportunities in surgical robotics, surgical vision, and medical AI.
 
 profile:
   align: right
@@ -38,6 +38,6 @@ latest_posts:
 
 I work at the intersection of surgical robotics, computer vision, and medical AI. My research focuses on building spatially grounded systems that can perceive anatomy, reason over surgical scenes, and support image-guided intervention.
 
-I completed an MSc in Medical Robotics and Artificial Intelligence at University College London and a BEng in Mechanical Engineering and Automation at Southwest Jiaotong University. I am currently seeking PhD opportunities to develop reliable spatial intelligence for minimally invasive surgery.
+I completed an MSc in Medical Robotics and Artificial Intelligence at University College London and a joint dual-degree BEng program at Southwest Jiaotong University and the University of Leeds. I am currently a visiting student researcher in thoracic surgery at Tianjin Union Medical Center and a remote research assistant at the University of Manchester.
 
-My current interests include surgical vision, 3D reconstruction and registration, vision-language models, and image-guided surgical navigation.
+I am seeking Fall 2027 PhD opportunities in North America. My current interests include surgical vision, 3D reconstruction and registration, vision-language models, and image-guided surgical navigation.

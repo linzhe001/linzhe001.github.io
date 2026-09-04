@@ -7,7 +7,7 @@ importance: 1
 github: https://github.com/linzhe001/RefineRank
 ---
 
-**Surgical Spatio-Temporal Grounding · ECCV 2026 MedVidU Workshop**
+**Surgical Spatio-Temporal Grounding · Presented at ECCV 2026 MedVidU Workshop (non-archival)**
 
 Linzhe Jiang, Jiayuan Huang, Changhao Zhang, Chunyang Jiang, Zhehua Mao, Mobarak I. Hoque
 
@@ -32,7 +32,7 @@ RefineRank closes this gap at the candidate-box level. A compact, trainable modu
 
 - Records **0.421 STG mIoU**, the highest displayed STG score on the MedVidBench Official Rankings (Verified), with a global multi-metric rank of 11.
 - On video-separated training and evaluation videos, ranking the joint pool of original and refined candidates by RefineNet scores improves STG mIoU from **0.2719 to 0.4534**.
-- Coordinate correction raises the candidate oracle upper bound from **0.6772 to 0.7302**, while separately trained selectors over the same pool reach at most **0.4186**.
+- Coordinate correction raises the candidate oracle upper bound from **0.6772 to 0.7302**, while separately trained selectors over the same pool reach at most **0.4176**.
 - Both backbones remain frozen; only a small box-level module is trained, and it implicitly learns to rank as it learns to refine.
 
 ## Results

@@ -18,17 +18,25 @@ cv:
         location: London, UK
         url: https://www.ucl.ac.uk/
         area: Medical Robotics and Artificial Intelligence
-        studyType: MSc, Distinction
+        studyType: MSc, Distinction (71.86/100)
         start_date: 2024-09
         end_date: 2025-09
 
       - institution: Southwest Jiaotong University
         location: Chengdu, CN
         url: https://en.swjtu.edu.cn/
-        area: Mechanical Engineering and Automation
-        studyType: BEng
+        area: Mechanical Design, Manufacturing and Automation
+        studyType: Joint BEng (82.87/100)
         start_date: 2019-09
-        end_date: 2023-06
+        end_date: 2023-07
+
+      - institution: University of Leeds
+        location: Leeds, UK
+        url: https://www.leeds.ac.uk/
+        area: Mechanical Engineering
+        studyType: Joint BEng (82.87/100)
+        start_date: 2019-09
+        end_date: 2023-07
 
     Experience:
       - company: Tianjin Union Medical Center, The First Affiliated Hospital of Nankai University
@@ -45,12 +53,12 @@ cv:
         end_date: present
         summary: Working on MRI-video registration, feed-forward 3D reconstruction, and the PitvisGym simulator.
 
-      - company: Peking Union Medical College, Institute of Biomedical Engineering
+      - company: Chinese Academy of Medical Sciences & Peking Union Medical College, Institute of Biomedical Engineering
         position: Research Assistant
-        location: Beijing, CN
+        location: Tianjin, CN
         start_date: 2023-09
         end_date: 2024-07
-        summary: Worked on fNIRS-based sensing, photon transport simulation, and driver-fatigue experiments.
+        summary: Worked on fNIRS-based sensing, photon-transport simulation, hardware prototyping, and driver-fatigue experiments.
 
     Interests:
       - name: Research
