@@ -10,6 +10,8 @@ on:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -93,6 +95,10 @@ jobs:
 
       - name: Commit and push if changed
         run: |
+          if [ ! -f _data/citations.yml ]; then
+            echo "ℹ️ _data/citations.yml was not produced (Scholar fetch failed or skipped); nothing to commit."
+            exit 0
+          fi
           git add _data/citations.yml
           git diff --staged --quiet || (
             echo "📤 Committing and pushing changes..."
