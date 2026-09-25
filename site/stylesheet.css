@@ -166,6 +166,10 @@ h2 {
 .extra[hidden] {
   display: none;
 }
+.honors ul {
+  padding-left: 22px;
+  margin: 0;
+}
 footer {
   display: flex;
   justify-content: space-between;
