@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-09-13'
+  last_updated: '2026-10-16'
 papers:
   UQJnDwYAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -9,10 +9,14 @@ papers:
     citations: 1
     title: 'Surgical AI Copilot: Energy-Based Fourier Gradient Low-Rank Adaptation for Surgical LLM Agent Reasoning and Planning'
     year: '2026'
-  UQJnDwYAAAAJ:d1gkVwhDpl0C:
+  UQJnDwYAAAAJ:IjCSPb-OGe4C:
     citations: 0
-    title: 'MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba'
-    year: '2025'
+    title: 'RefineRank: Joint Box Refinement and Ranking for Surgical Spatio-Temporal Grounding'
+    year: '2026'
+  UQJnDwYAAAAJ:UeHWp8X0CEIC:
+    citations: 1
+    title: A histopathologically verified dataset of magnifying narrow-band imaging endoscopy for classifying the gastric precancerous cascade
+    year: '2026'
   UQJnDwYAAAAJ:qjMakFHDy7sC:
     citations: 4
     title: 'NTIRE 2026 3D restoration and reconstruction in adverse conditions: RealX3D challenge results'
@@ -25,3 +29,7 @@ papers:
     citations: 1
     title: Importance of effective regulation for the Chinese genetic testing industry
     year: '2020'
+  UQJnDwYAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: 'MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba'
+    year: '2025'
