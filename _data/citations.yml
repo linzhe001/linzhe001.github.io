@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-10-16'
+  last_updated: '2026-11-02'
 papers:
   UQJnDwYAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -30,6 +30,6 @@ papers:
     title: Importance of effective regulation for the Chinese genetic testing industry
     year: '2020'
   UQJnDwYAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: 'MambaNetLK: Enhancing Colonoscopy Point Cloud Registration with Mamba'
     year: '2025'
